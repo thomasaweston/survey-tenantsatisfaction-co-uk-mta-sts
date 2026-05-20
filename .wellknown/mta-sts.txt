@@ -1,1 +1,4 @@
-
+version: STSv1
+mode: enforce
+mx: YOUR-MX-HOST-HERE
+max_age: 86400
